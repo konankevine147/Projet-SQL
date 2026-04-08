@@ -1,0 +1,199 @@
+code_produit,nom_produit,type_pathologie,unite_conditionnement,numero_lot,date_limite_consommation,prix_achat,prix_vente,id_fournisseur
+CA00001,Tamoxifène,Cancer,comprimé,LOT36062,2028-04-15,29668.65,39839.93,1
+CA00002,Cisplatine,Cancer,flacon injectable,LOT30926,2028-06-09,8196.24,11369.53,11
+CA00003,Méthotrexate,Cancer,comprimé,LOT23396,2025-07-04,18269.48,21981.6,9
+CA00004,Doxorubicine,Cancer,flacon injectable,LOT15695,2028-09-04,48669.23,59063.05,18
+CA00005,Paclitaxel,Cancer,flacon injectable,LOT48427,2027-10-07,35376.31,39400.27,8
+CA00006,Cyclophosphamide,Cancer,comprimé,LOT47930,2025-04-28,5499.57,6508.15,12
+CA00007,Fluorouracile,Cancer,flacon injectable,LOT31319,2027-06-07,33673.67,44130.9,3
+CA00008,Vincristine,Cancer,flacon injectable,LOT89840,2026-09-24,12618.14,15629.81,9
+CA00009,Imatinib,Cancer,comprimé,LOT93886,2026-11-11,42221.17,56272.37,8
+CA00010,Rituximab,Cancer,flacon injectable,LOT14207,2027-07-09,3776.34,5188.47,19
+CA00011,Leucovorine,Cancer,comprimé,LOT51245,2026-11-16,20083.78,27602.43,15
+CA00012,Capécitabine,Cancer,comprimé,LOT28726,2027-03-08,37376.95,47158.24,19
+CA00013,Oxaliplatine,Cancer,flacon injectable,LOT66155,2028-06-08,49867.63,56923.88,16
+CA00014,Bévacizumab,Cancer,flacon injectable,LOT21915,2025-02-05,31558.58,42213.51,14
+CA00015,Trastuzumab,Cancer,flacon injectable,LOT88172,2025-07-13,29996.48,37208.08,9
+CA00016,Erlotinib,Cancer,comprimé,LOT82512,2025-11-24,6170.31,8425.17,9
+CA00017,Gemcitabine,Cancer,flacon injectable,LOT94012,2027-02-10,22020.88,27220.39,9
+CA00018,Carboplatine,Cancer,flacon injectable,LOT75612,2026-09-04,43590.67,51852.56,17
+CA00019,Étoposide,Cancer,comprimé,LOT89818,2026-03-12,38244.28,48257.16,17
+CA00020,Vinorelbine,Cancer,flacon injectable,LOT10074,2027-08-01,6037.45,7298.64,10
+CA00021,Ifosfamide,Cancer,flacon injectable,LOT41385,2025-04-19,47374.0,53328.72,16
+CA00022,Melphalan,Cancer,comprimé,LOT19071,2026-03-22,24026.48,30392.08,9
+PA00001,Artémether-Luméfantrine,Paludisme,comprimé,LOT79163,2028-04-18,37885.63,49515.01,10
+PA00002,Quinine,Paludisme,comprimé,LOT62296,2027-08-17,22848.56,26832.7,3
+PA00003,Chloroquine,Paludisme,comprimé,LOT54313,2025-10-18,11890.68,13865.31,3
+PA00004,Artésunate,Paludisme,flacon injectable,LOT92719,2025-04-03,45318.29,61537.28,3
+PA00005,Méfloquine,Paludisme,comprimé,LOT77391,2026-05-22,24528.02,30948.72,19
+PA00006,Atovaquone-Proguanil,Paludisme,comprimé,LOT85525,2028-04-26,23912.16,29223.48,4
+PA00007,Primaquine,Paludisme,comprimé,LOT22704,2028-06-14,20849.56,28337.7,2
+PA00008,Halofantrine,Paludisme,comprimé,LOT98259,2025-01-13,36546.57,48978.9,4
+PA00009,Dihydroartémisinine,Paludisme,comprimé,LOT42591,2026-04-18,22706.37,27850.83,9
+PA00010,Doxycycline,Paludisme,comprimé,LOT70637,2026-02-15,40497.1,54946.06,4
+PA00011,Sulfadoxine-Pyriméthamine,Paludisme,comprimé,LOT16630,2025-02-25,42510.44,48882.47,16
+PA00012,Amodiaquine,Paludisme,comprimé,LOT73092,2026-07-02,8649.54,9520.09,13
+PA00013,Artémisinine,Paludisme,gélule,LOT44760,2028-05-14,34981.28,46145.61,18
+PA00014,Pyriméthamine,Paludisme,comprimé,LOT96752,2028-03-07,15187.04,21119.29,19
+PA00015,Quinine injectable,Paludisme,flacon injectable,LOT81066,2025-12-11,3329.68,4246.19,17
+PA00016,Artésunate rectal,Paludisme,suppositoire,LOT79615,2026-01-17,4465.52,5161.01,20
+PA00017,Lumefantrine,Paludisme,comprimé,LOT18907,2026-07-04,47109.01,59870.96,19
+PA00018,Chlorproguanil,Paludisme,comprimé,LOT87924,2025-10-03,21251.63,27097.99,17
+PA00019,Artéméther injectable,Paludisme,flacon injectable,LOT51467,2027-04-22,35951.49,42120.97,13
+PA00020,Tafénoquine,Paludisme,comprimé,LOT27154,2027-08-11,46486.41,64184.73,1
+PA00021,Ferroquine,Paludisme,comprimé,LOT70068,2025-02-18,11051.14,13035.48,12
+PA00022,Piperaquine,Paludisme,comprimé,LOT19016,2026-06-10,8308.47,11217.46,10
+SI00001,Ténofovir-Emtricitabine,SIDA/VIH,comprimé,LOT90173,2025-11-27,27952.81,38561.65,4
+SI00002,Efavirenz,SIDA/VIH,comprimé,LOT27601,2027-02-04,37249.63,42711.71,10
+SI00003,Lopinavir-Ritonavir,SIDA/VIH,comprimé,LOT89276,2026-12-11,10578.07,13648.58,9
+SI00004,Zidovudine,SIDA/VIH,comprimé,LOT76244,2028-05-28,3014.55,3889.63,9
+SI00005,Lamivudine,SIDA/VIH,comprimé,LOT15778,2025-06-25,6975.57,9723.52,6
+SI00006,Névirapine,SIDA/VIH,comprimé,LOT67912,2028-09-01,6037.76,8353.33,5
+SI00007,Atazanavir,SIDA/VIH,gélule,LOT81511,2025-06-19,27849.99,34225.86,2
+SI00008,Raltégravir,SIDA/VIH,comprimé,LOT50404,2027-01-12,10898.79,12804.54,4
+SI00009,Darunavir,SIDA/VIH,comprimé,LOT56357,2028-10-24,8150.39,11239.1,6
+SI00010,Dolutégravir,SIDA/VIH,comprimé,LOT33206,2028-01-06,36959.94,44339.2,14
+SI00011,Abacavir,SIDA/VIH,comprimé,LOT97806,2026-05-06,39475.04,44702.67,2
+SI00012,Stavudine,SIDA/VIH,gélule,LOT71694,2026-04-27,45963.37,55381.15,8
+SI00013,Ritonavir,SIDA/VIH,comprimé,LOT39219,2025-11-07,20224.07,23936.82,3
+SI00014,Indinavir,SIDA/VIH,gélule,LOT46585,2027-11-17,20284.08,28283.0,18
+SI00015,Saquinavir,SIDA/VIH,comprimé,LOT53404,2025-02-09,9339.11,12969.79,9
+SI00016,Etravirine,SIDA/VIH,comprimé,LOT15014,2025-10-14,17611.51,23527.72,14
+SI00017,Maraviroc,SIDA/VIH,comprimé,LOT89457,2025-07-19,9908.9,11031.74,14
+SI00018,Enfuvirtide,SIDA/VIH,flacon injectable,LOT10221,2026-06-14,3963.7,5149.92,11
+SI00019,Cobicistat,SIDA/VIH,comprimé,LOT91678,2027-11-28,6668.95,9136.56,17
+SI00020,Rilpivirine,SIDA/VIH,comprimé,LOT50538,2028-06-13,35011.82,44336.3,7
+SI00021,Bictégravir,SIDA/VIH,comprimé,LOT65108,2028-11-24,45188.87,58052.08,10
+SI00022,Cabotégravir,SIDA/VIH,flacon injectable,LOT63225,2025-05-10,10904.04,14564.83,20
+TU00001,Rifampicine,Tuberculose,comprimé,LOT95813,2027-08-15,22386.91,26060.84,16
+TU00002,Isoniazide,Tuberculose,comprimé,LOT32241,2025-05-17,33360.76,42894.54,3
+TU00003,Pyrazinamide,Tuberculose,comprimé,LOT40784,2027-04-26,10356.93,11468.51,8
+TU00004,Éthambutol,Tuberculose,comprimé,LOT72277,2025-08-14,44363.78,56461.84,13
+TU00005,Streptomycine,Tuberculose,flacon injectable,LOT74799,2028-04-05,32974.87,36327.21,4
+TU00006,Rifabutine,Tuberculose,gélule,LOT65724,2026-03-26,47919.32,60157.31,2
+TU00007,Moxifloxacine,Tuberculose,comprimé,LOT83060,2026-02-15,7100.29,8800.05,17
+TU00008,Linézolide,Tuberculose,comprimé,LOT83259,2027-08-20,40842.82,55856.89,14
+TU00009,Bédaquiline,Tuberculose,comprimé,LOT81810,2028-03-24,43144.0,53283.74,8
+TU00010,Délamanide,Tuberculose,comprimé,LOT93579,2027-09-16,31524.05,37273.38,3
+TU00011,Kanamycine,Tuberculose,flacon injectable,LOT47450,2026-05-11,16325.62,20603.68,5
+TU00012,Amikacine,Tuberculose,flacon injectable,LOT29769,2026-07-23,8063.86,9387.83,14
+TU00013,Prothionamide,Tuberculose,comprimé,LOT63424,2027-09-15,21080.82,24496.97,14
+TU00014,Cyclosérine,Tuberculose,gélule,LOT61049,2025-10-13,24110.5,33340.54,10
+TU00015,Acide para-aminosalicylique,Tuberculose,sachet,LOT61116,2028-09-24,36864.39,49396.82,8
+TU00016,Clofazimine,Tuberculose,gélule,LOT73993,2026-05-14,24539.28,29855.89,13
+TU00017,Rifampicine pédiatrique,Tuberculose,sirop,LOT31632,2028-03-20,26939.12,36962.59,19
+TU00018,Isoniazide pédiatrique,Tuberculose,sirop,LOT83975,2025-02-21,21716.33,29535.41,6
+TU00019,Pyrazinamide pédiatrique,Tuberculose,sirop,LOT16590,2027-07-11,10977.18,13151.25,13
+TU00020,Thioacétazone,Tuberculose,comprimé,LOT46471,2028-05-27,4554.36,5036.28,18
+TU00021,Levofloxacine,Tuberculose,comprimé,LOT16826,2027-04-21,3896.61,5405.32,2
+TU00022,Imipénem,Tuberculose,flacon injectable,LOT14067,2026-04-27,1508.81,1728.67,5
+MC00001,Aspirine,Maladies Cardio-neurovasculaires,comprimé,LOT72070,2025-10-07,23519.18,27679.09,12
+MC00002,Amlodipine,Maladies Cardio-neurovasculaires,comprimé,LOT31992,2025-03-10,5850.89,6481.05,10
+MC00003,Aténolol,Maladies Cardio-neurovasculaires,comprimé,LOT85470,2028-07-23,10317.32,13181.71,8
+MC00004,Ramipril,Maladies Cardio-neurovasculaires,comprimé,LOT23356,2027-11-20,40373.63,54054.97,19
+MC00005,Furosémide,Maladies Cardio-neurovasculaires,comprimé,LOT15383,2027-09-14,33245.31,37257.59,11
+MC00006,Spironolactone,Maladies Cardio-neurovasculaires,comprimé,LOT11658,2028-08-04,21959.41,26541.38,15
+MC00007,Warfarine,Maladies Cardio-neurovasculaires,comprimé,LOT30052,2028-03-24,26326.46,34096.38,20
+MC00008,Simvastatine,Maladies Cardio-neurovasculaires,comprimé,LOT80539,2028-08-14,41373.86,52865.13,11
+MC00009,Atorvastatine,Maladies Cardio-neurovasculaires,comprimé,LOT42177,2025-05-15,12571.24,15580.95,20
+MC00010,Nitroglycérine,Maladies Cardio-neurovasculaires,comprimé sublingual,LOT97580,2028-06-01,24968.17,29899.49,16
+MC00011,Métoprolol,Maladies Cardio-neurovasculaires,comprimé,LOT37802,2027-05-11,14343.1,18342.62,9
+MC00012,Lisinopril,Maladies Cardio-neurovasculaires,comprimé,LOT82848,2025-09-07,4737.84,6235.1,16
+MC00013,Digoxine,Maladies Cardio-neurovasculaires,comprimé,LOT82768,2026-12-16,32472.19,40500.82,1
+MC00014,Hydrochlorothiazide,Maladies Cardio-neurovasculaires,comprimé,LOT22196,2027-04-13,34743.46,41409.4,19
+MC00015,Valsartan,Maladies Cardio-neurovasculaires,comprimé,LOT58368,2028-09-17,17515.99,24504.69,18
+MC00016,Clopidogrel,Maladies Cardio-neurovasculaires,comprimé,LOT53357,2027-12-15,13910.36,16350.53,4
+MC00017,Bisoprolol,Maladies Cardio-neurovasculaires,comprimé,LOT35242,2027-02-24,27025.27,35907.31,6
+MC00018,Énalaprile,Maladies Cardio-neurovasculaires,comprimé,LOT35105,2026-12-16,14186.73,18114.7,17
+MC00019,Diltiazem,Maladies Cardio-neurovasculaires,comprimé,LOT88222,2027-02-27,10108.82,11809.58,6
+MC00020,Amiodarone,Maladies Cardio-neurovasculaires,comprimé,LOT49618,2025-12-18,6765.86,7534.83,2
+MC00021,Altéplase,Maladies Cardio-neurovasculaires,flacon injectable,LOT82529,2027-12-05,32074.55,42525.65,4
+MC00022,Héparine,Maladies Cardio-neurovasculaires,flacon injectable,LOT11607,2027-08-16,22303.21,25767.1,2
+PP00001,Halopéridol,Pathologies Psychiatriques,comprimé,LOT43092,2028-02-27,3734.5,4658.88,19
+PP00002,Chlorpromazine,Pathologies Psychiatriques,comprimé,LOT92502,2025-03-05,40651.53,56291.71,3
+PP00003,Rispéridone,Pathologies Psychiatriques,comprimé,LOT42530,2025-09-25,21100.61,26984.26,20
+PP00004,Olanzapine,Pathologies Psychiatriques,comprimé,LOT39581,2028-08-15,15218.98,19427.9,14
+PP00005,Clozapine,Pathologies Psychiatriques,comprimé,LOT50026,2025-10-24,5412.06,7191.66,7
+PP00006,Lithium,Pathologies Psychiatriques,comprimé,LOT44687,2025-03-08,9103.77,10219.16,1
+PP00007,Valproate,Pathologies Psychiatriques,comprimé,LOT63545,2028-12-20,23760.67,26369.4,10
+PP00008,Carbamazépine,Pathologies Psychiatriques,comprimé,LOT47056,2028-02-22,12054.48,14216.65,19
+PP00009,Fluoxétine,Pathologies Psychiatriques,gélule,LOT96662,2026-07-04,27455.84,35535.83,9
+PP00010,Sertraline,Pathologies Psychiatriques,comprimé,LOT28643,2025-01-06,39735.11,50801.86,19
+PP00011,Amitriptyline,Pathologies Psychiatriques,comprimé,LOT47828,2028-02-15,34589.56,45309.56,9
+PP00012,Diazépam,Pathologies Psychiatriques,comprimé,LOT75597,2028-08-03,30102.81,41145.33,11
+PP00013,Lorazépam,Pathologies Psychiatriques,comprimé,LOT89129,2027-01-03,11831.76,15408.38,19
+PP00014,Phénobarbital,Pathologies Psychiatriques,comprimé,LOT86955,2025-11-27,13840.8,15391.93,6
+PP00015,Phénytoïne,Pathologies Psychiatriques,gélule,LOT71669,2028-05-06,49848.8,61352.18,16
+PP00016,Aripiprazole,Pathologies Psychiatriques,comprimé,LOT21959,2028-06-14,16998.77,22116.08,6
+PP00017,Quétiapine,Pathologies Psychiatriques,comprimé,LOT53228,2028-12-16,14766.78,20430.7,18
+PP00018,Méthylphénidate,Pathologies Psychiatriques,comprimé,LOT14809,2028-02-11,12993.74,14744.99,13
+PP00019,Clonazépam,Pathologies Psychiatriques,comprimé,LOT77449,2025-11-28,27358.38,33485.95,7
+PP00020,Imipramine,Pathologies Psychiatriques,comprimé,LOT77952,2027-10-25,25175.41,31031.52,2
+PP00021,Zuclopenthixol,Pathologies Psychiatriques,flacon injectable,LOT36680,2027-09-05,46419.8,57162.96,16
+PP00022,Fluphénazine,Pathologies Psychiatriques,flacon injectable,LOT25915,2025-11-20,40066.03,52604.09,10
+MM00001,Metformine,Maladies Métaboliques,comprimé,LOT82199,2025-09-14,5113.86,7147.53,4
+MM00002,Insuline rapide,Maladies Métaboliques,flacon injectable,LOT70482,2025-11-27,8121.57,11206.11,10
+MM00003,Insuline lente,Maladies Métaboliques,flacon injectable,LOT76698,2027-07-27,24383.73,30276.45,15
+MM00004,Glibenclamide,Maladies Métaboliques,comprimé,LOT82255,2026-07-07,46132.47,57779.64,5
+MM00005,Sitagliptine,Maladies Métaboliques,comprimé,LOT19150,2027-07-11,46745.3,58540.13,1
+MM00006,Empagliflozine,Maladies Métaboliques,comprimé,LOT47072,2027-10-19,49945.67,62276.86,5
+MM00007,Liraglutide,Maladies Métaboliques,stylo injectable,LOT68529,2028-06-11,27819.91,35137.35,15
+MM00008,Pioglitazone,Maladies Métaboliques,comprimé,LOT52176,2026-12-08,28803.98,33702.64,14
+MM00009,Lévothyroxine,Maladies Métaboliques,comprimé,LOT15720,2027-12-16,35408.78,47568.96,13
+MM00010,Méthimazole,Maladies Métaboliques,comprimé,LOT96991,2026-08-02,6749.19,9378.72,11
+MM00011,Allopurinol,Maladies Métaboliques,comprimé,LOT23154,2028-02-17,45566.86,50333.35,5
+MM00012,Colchicine,Maladies Métaboliques,comprimé,LOT63736,2026-02-16,39185.5,46219.57,20
+MM00013,Glucosamine,Maladies Métaboliques,gélule,LOT62098,2025-06-28,33880.7,42692.62,11
+MM00014,Acide folique,Maladies Métaboliques,comprimé,LOT92155,2028-09-02,31064.24,36358.55,10
+MM00015,Vitamine D,Maladies Métaboliques,gélule,LOT39817,2025-07-04,38138.3,50005.69,4
+MM00016,Calcium,Maladies Métaboliques,comprimé,LOT68153,2026-12-10,45219.49,50365.35,2
+MM00017,Fer sulfate,Maladies Métaboliques,comprimé,LOT48452,2027-06-14,7705.7,9704.17,19
+MM00018,Zinc,Maladies Métaboliques,comprimé,LOT99364,2026-03-06,4408.93,6001.66,20
+MM00019,Vitamine B12,Maladies Métaboliques,flacon injectable,LOT99539,2026-08-19,7584.33,9392.02,9
+MM00020,Niacine,Maladies Métaboliques,comprimé,LOT70236,2027-11-01,44995.97,55775.92,10
+MM00021,Cholestyramine,Maladies Métaboliques,sachet,LOT98815,2026-02-15,47289.16,66029.64,10
+MM00022,Fénofibrate,Maladies Métaboliques,gélule,LOT93746,2028-12-09,23113.37,27519.62,13
+MN00001,Lévodopa-Carbidopa,Maladies Neurodégénératives,comprimé,LOT73335,2025-04-13,28810.17,36659.32,10
+MN00002,Mémantine,Maladies Neurodégénératives,comprimé,LOT12875,2028-05-01,28513.49,37231.2,2
+MN00003,Donépézil,Maladies Neurodégénératives,comprimé,LOT89482,2028-05-25,40043.58,51340.65,12
+MN00004,Rivastigmine,Maladies Neurodégénératives,gélule,LOT38705,2026-10-09,34049.34,44818.41,5
+MN00005,Galantamine,Maladies Neurodégénératives,gélule,LOT92345,2025-11-21,2451.42,3276.53,2
+MN00006,Entacapone,Maladies Neurodégénératives,comprimé,LOT85965,2027-12-05,4961.6,5897.03,14
+MN00007,Ropinirole,Maladies Neurodégénératives,comprimé,LOT33021,2026-03-26,27200.68,37848.3,17
+MN00008,Pramipexole,Maladies Neurodégénératives,comprimé,LOT75771,2027-03-09,45745.42,63277.64,10
+MN00009,Rasagiline,Maladies Neurodégénératives,comprimé,LOT54396,2025-08-03,7467.47,10379.41,13
+MN00010,Sélégiline,Maladies Neurodégénératives,comprimé,LOT83048,2027-02-26,20031.44,23623.83,4
+MN00011,Riluzole,Maladies Neurodégénératives,comprimé,LOT69609,2027-11-24,33780.87,43083.04,12
+MN00012,Edaravone,Maladies Neurodégénératives,flacon injectable,LOT24201,2026-08-01,31167.57,43103.21,11
+MN00013,Amantadine,Maladies Neurodégénératives,gélule,LOT89964,2026-11-03,31952.49,39598.09,10
+MN00014,Trihexyphénidyle,Maladies Neurodégénératives,comprimé,LOT95097,2028-02-05,2744.67,3049.78,16
+MN00015,Baclofène,Maladies Neurodégénératives,comprimé,LOT25220,2025-04-18,7215.37,8918.87,18
+MN00016,Tizanidine,Maladies Neurodégénératives,comprimé,LOT64935,2026-07-21,5401.57,6734.7,14
+MN00017,Interféron bêta,Maladies Neurodégénératives,flacon injectable,LOT46666,2025-12-12,11254.85,13881.83,8
+MN00018,Natalizumab,Maladies Neurodégénératives,flacon injectable,LOT57537,2025-11-12,27451.06,38249.01,12
+MN00019,Fingolimod,Maladies Neurodégénératives,gélule,LOT17936,2028-05-07,48426.24,67055.97,15
+MN00020,Diméthyl fumarate,Maladies Neurodégénératives,gélule,LOT22015,2026-11-21,30058.72,33257.19,11
+MN00021,Ocrelizumab,Maladies Neurodégénératives,flacon injectable,LOT41925,2026-10-07,3896.2,5180.18,7
+MN00022,Alemtuzumab,Maladies Neurodégénératives,flacon injectable,LOT86858,2026-04-11,38831.24,51901.57,20
+AP00001,Ibuprofène,Pathologies Articulaires et Musculaires,comprimé,LOT10371,2027-03-05,27240.67,36490.35,4
+AP00002,Naproxène,Pathologies Articulaires et Musculaires,comprimé,LOT96646,2025-03-01,18232.99,24368.93,19
+AP00003,Diclofénac,Pathologies Articulaires et Musculaires,comprimé,LOT52437,2025-03-09,3093.75,4091.53,17
+AP00004,Célécoxib,Pathologies Articulaires et Musculaires,gélule,LOT24896,2025-08-15,39011.84,48919.73,4
+AP00005,Prednisolone,Pathologies Articulaires et Musculaires,comprimé,LOT69245,2026-10-02,36498.53,50098.81,17
+AP00006,Dexaméthasone,Pathologies Articulaires et Musculaires,comprimé,LOT49535,2028-11-01,3510.86,4366.44,13
+AP00007,Méthotrexate,Pathologies Articulaires et Musculaires,comprimé,LOT65872,2025-08-23,45530.19,51087.02,3
+AP00008,Hydroxychloroquine,Pathologies Articulaires et Musculaires,comprimé,LOT52219,2026-02-05,14113.29,18205.06,18
+AP00009,Sulfasalazine,Pathologies Articulaires et Musculaires,comprimé,LOT52622,2028-10-17,15097.44,18896.94,14
+AP00010,Léflunomide,Pathologies Articulaires et Musculaires,comprimé,LOT22999,2025-11-21,43946.46,55609.88,7
+AP00011,Etanercept,Pathologies Articulaires et Musculaires,stylo injectable,LOT66370,2028-04-14,17277.12,21355.38,14
+AP00012,Adalimumab,Pathologies Articulaires et Musculaires,stylo injectable,LOT22463,2027-07-11,33422.84,40518.18,5
+AP00013,Infliximab,Pathologies Articulaires et Musculaires,flacon injectable,LOT72163,2025-02-27,4725.54,5810.35,12
+AP00014,Abatacept,Pathologies Articulaires et Musculaires,flacon injectable,LOT27054,2025-10-18,28303.33,36822.74,14
+AP00015,Tocilizumab,Pathologies Articulaires et Musculaires,flacon injectable,LOT56346,2028-12-02,48435.73,62003.69,12
+AP00016,Rituximab rhumato,Pathologies Articulaires et Musculaires,flacon injectable,LOT23579,2026-03-22,24368.38,32999.23,12
+AP00017,Acide hyaluronique,Pathologies Articulaires et Musculaires,flacon injectable,LOT82910,2027-02-25,14289.13,16687.53,14
+AP00018,Cortisone,Pathologies Articulaires et Musculaires,flacon injectable,LOT83526,2025-10-22,41558.31,49048.54,6
+AP00019,Paracétamol,Pathologies Articulaires et Musculaires,comprimé,LOT45818,2027-06-12,802.24,1091.82,19
+AP00020,Tramadol,Pathologies Articulaires et Musculaires,gélule,LOT96159,2028-02-05,37177.97,51734.75,3
+AP00021,Codéine,Pathologies Articulaires et Musculaires,comprimé,LOT79531,2026-07-14,22955.47,26335.04,10
+AP00022,Morphine,Pathologies Articulaires et Musculaires,flacon injectable,LOT52517,2025-01-05,8291.79,10657.86,3

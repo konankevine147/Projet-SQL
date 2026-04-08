@@ -1,0 +1,501 @@
+code_client,nom_client,type_client,telephone,email,ville,region
+C0001,District Sanitaire de Dunkerque,district_sanitaire,+33 3 22 77 16 63,contact1@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0002,District Sanitaire de Aix-en-Provence,district_sanitaire,0177827391,contact2@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0003,Clinique Saint-Nazaire 3,clinique,+33 3 81 39 72 38,contact3@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0004,Hôpital Guillaume de Albi,hopital,+33 (0)1 45 14 92 21,contact4@sante-albi.fr,Albi,Occitanie
+C0005,Hôpital Daniel de Nancy,hopital,+33 (0)2 78 71 99 78,contact5@sante-nancy.fr,Nancy,Grand Est
+C0006,Clinique Valenciennes 6,clinique,+33 3 21 98 64 64,contact6@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0007,Hôpital Grondin de Quimper,hopital,07 94 05 48 04,contact7@sante-quimper.fr,Quimper,Bretagne
+C0008,District Sanitaire de Perpignan,district_sanitaire,+33 4 49 06 44 77,contact8@sante-perpignan.fr,Perpignan,Occitanie
+C0009,Hôpital Bernard de Paris,hopital,0631042790,contact9@sante-paris.fr,Paris,Île-de-France
+C0010,Hôpital Legros de Amiens,hopital,+33 4 74 09 25 26,contact10@sante-amiens.fr,Amiens,Hauts-de-France
+C0011,Clinique Roubaix 11,clinique,0532885920,contact11@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0012,Clinique Lyon 12,clinique,0472275157,contact12@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0013,Hôpital Caron de Mâcon,hopital,0637941469,contact13@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0014,District Sanitaire de Pau,district_sanitaire,+33 2 47 31 23 55,contact14@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0015,District Sanitaire de Besançon,district_sanitaire,+33 (0)2 41 97 49 25,contact15@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0016,Hôpital Traore de Quimper,hopital,02 21 49 86 83,contact16@sante-quimper.fr,Quimper,Bretagne
+C0017,Clinique Marseille 17,clinique,0426365775,contact17@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0018,Hôpital Étienne de Saint-Denis,hopital,+33 1 55 66 17 27,contact18@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0019,Clinique Mulhouse 19,clinique,0488969608,contact19@sante-mulhouse.fr,Mulhouse,Grand Est
+C0020,District Sanitaire de Cherbourg,district_sanitaire,02 96 38 83 97,contact20@sante-cherbourg.fr,Cherbourg,Normandie
+C0021,Clinique Blois 21,clinique,+33 (0)2 72 61 51 91,contact21@sante-blois.fr,Blois,Centre-Val de Loire
+C0022,Hôpital Carpentier de Saint-Étienne,hopital,+33 6 19 15 20 37,contact22@sante-saint-étienne.fr,Saint-Étienne,Auvergne-Rhône-Alpes
+C0023,District Sanitaire de Reims,district_sanitaire,02 58 32 07 28,contact23@sante-reims.fr,Reims,Grand Est
+C0024,Hôpital Salmon de Angers,hopital,03 72 95 58 83,contact24@sante-angers.fr,Angers,Pays de la Loire
+C0025,Hôpital Fabre de Marseille,hopital,02 31 78 62 57,contact25@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0026,Clinique Avignon 26,clinique,0248677507,contact26@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0027,Clinique Rennes 27,clinique,+33 1 47 17 98 55,contact27@sante-rennes.fr,Rennes,Bretagne
+C0028,Hôpital Aubert de Roubaix,hopital,0310413015,contact28@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0029,Hôpital Allard de Reims,hopital,01 72 60 60 12,contact29@sante-reims.fr,Reims,Grand Est
+C0030,District Sanitaire de Rennes,district_sanitaire,0142199612,contact30@sante-rennes.fr,Rennes,Bretagne
+C0031,Clinique Brest 31,clinique,02 50 78 81 26,contact31@sante-brest.fr,Brest,Bretagne
+C0032,Hôpital Duval de Reims,hopital,04 73 20 16 09,contact32@sante-reims.fr,Reims,Grand Est
+C0033,Clinique Grenoble 33,clinique,04 97 98 70 08,contact33@sante-grenoble.fr,Grenoble,Auvergne-Rhône-Alpes
+C0034,District Sanitaire de Montpellier,district_sanitaire,02 54 10 76 06,contact34@sante-montpellier.fr,Montpellier,Occitanie
+C0035,Hôpital Bertin de Bordeaux,hopital,+33 5 31 39 08 41,contact35@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0036,Clinique Blois 36,clinique,+33 (0)2 35 00 81 58,contact36@sante-blois.fr,Blois,Centre-Val de Loire
+C0037,Clinique Alençon 37,clinique,+33 2 43 42 42 62,contact37@sante-alençon.fr,Alençon,Normandie
+C0038,District Sanitaire de Chartres,district_sanitaire,0360553548,contact38@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0039,Clinique Chartres 39,clinique,+33 6 34 47 26 97,contact39@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0040,Hôpital Leconte de Bourges,hopital,0299928285,contact40@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0041,Clinique Nantes 41,clinique,+33 (0)1 75 76 04 41,contact41@sante-nantes.fr,Nantes,Pays de la Loire
+C0042,Clinique Angers 42,clinique,0359694694,contact42@sante-angers.fr,Angers,Pays de la Loire
+C0043,Clinique Rouen 43,clinique,0248960379,contact43@sante-rouen.fr,Rouen,Normandie
+C0044,Clinique Rennes 44,clinique,+33 (0)5 40 57 95 18,contact44@sante-rennes.fr,Rennes,Bretagne
+C0045,Hôpital Garnier de Saint-Nazaire,hopital,0141662907,contact45@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0046,Clinique Boulogne-Billancourt 46,clinique,+33 4 71 12 17 97,contact46@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0047,District Sanitaire de Lyon,district_sanitaire,0181601173,contact47@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0048,Clinique Alençon 48,clinique,+33 (0)3 39 89 81 86,contact48@sante-alençon.fr,Alençon,Normandie
+C0049,District Sanitaire de La Roche-sur-Yon,district_sanitaire,+33 (0)4 77 61 01 75,contact49@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0050,Clinique Dijon 50,clinique,+33 (0)4 34 68 84 76,contact50@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0051,Clinique Caen 51,clinique,0483042241,contact51@sante-caen.fr,Caen,Normandie
+C0052,District Sanitaire de Cherbourg,district_sanitaire,02 37 72 70 95,contact52@sante-cherbourg.fr,Cherbourg,Normandie
+C0053,Clinique Bordeaux 53,clinique,+33 4 95 52 95 63,contact53@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0054,District Sanitaire de Clermont-Ferrand,district_sanitaire,+33 (0)8 04 59 09 39,contact54@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0055,District Sanitaire de Annecy,district_sanitaire,0493987609,contact55@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0056,Hôpital Lefèvre de Bordeaux,hopital,0449326809,contact56@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0057,Clinique Mâcon 57,clinique,0473557873,contact57@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0058,District Sanitaire de Vannes,district_sanitaire,01 48 74 93 44,contact58@sante-vannes.fr,Vannes,Bretagne
+C0059,Clinique Poitiers 59,clinique,+33 4 99 13 24 63,contact59@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0060,Clinique Dunkerque 60,clinique,+33 2 36 94 76 57,contact60@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0061,Hôpital Mercier de Mulhouse,hopital,01 55 71 18 84,contact61@sante-mulhouse.fr,Mulhouse,Grand Est
+C0062,Hôpital Georges de Bourges,hopital,01 70 85 74 79,contact62@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0063,District Sanitaire de Strasbourg,district_sanitaire,0389889277,contact63@sante-strasbourg.fr,Strasbourg,Grand Est
+C0064,Clinique Blois 64,clinique,01 69 04 59 88,contact64@sante-blois.fr,Blois,Centre-Val de Loire
+C0065,Hôpital Roger de Valenciennes,hopital,01 43 29 56 07,contact65@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0066,District Sanitaire de Strasbourg,district_sanitaire,+33 5 40 84 98 39,contact66@sante-strasbourg.fr,Strasbourg,Grand Est
+C0067,Clinique Tours 67,clinique,03 55 44 11 83,contact67@sante-tours.fr,Tours,Centre-Val de Loire
+C0068,Hôpital Faure de Dunkerque,hopital,02 77 75 94 48,contact68@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0069,Clinique Rouen 69,clinique,+33 4 89 78 14 25,contact69@sante-rouen.fr,Rouen,Normandie
+C0070,District Sanitaire de Lorient,district_sanitaire,+33 2 36 37 21 45,contact70@sante-lorient.fr,Lorient,Bretagne
+C0071,District Sanitaire de Reims,district_sanitaire,+33 (0)2 32 03 10 55,contact71@sante-reims.fr,Reims,Grand Est
+C0072,Hôpital Rousset de Auxerre,hopital,0383064734,contact72@sante-auxerre.fr,Auxerre,Bourgogne-Franche-Comté
+C0073,District Sanitaire de Blois,district_sanitaire,04 80 37 81 18,contact73@sante-blois.fr,Blois,Centre-Val de Loire
+C0074,Clinique Strasbourg 74,clinique,01 83 48 76 97,contact74@sante-strasbourg.fr,Strasbourg,Grand Est
+C0075,Hôpital Noël de Amiens,hopital,0252401005,contact75@sante-amiens.fr,Amiens,Hauts-de-France
+C0076,Hôpital Delmas de Nancy,hopital,+33 1 48 74 26 52,contact76@sante-nancy.fr,Nancy,Grand Est
+C0077,Hôpital Michaud de Montpellier,hopital,0561774000,contact77@sante-montpellier.fr,Montpellier,Occitanie
+C0078,Hôpital Pinto de Clermont-Ferrand,hopital,04 90 97 70 04,contact78@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0079,District Sanitaire de Vannes,district_sanitaire,02 45 71 32 30,contact79@sante-vannes.fr,Vannes,Bretagne
+C0080,District Sanitaire de Rennes,district_sanitaire,+33 4 98 52 62 95,contact80@sante-rennes.fr,Rennes,Bretagne
+C0081,Hôpital Lefebvre de Mulhouse,hopital,02 30 29 13 97,contact81@sante-mulhouse.fr,Mulhouse,Grand Est
+C0082,Hôpital Ruiz de Cherbourg,hopital,+33 4 63 09 23 23,contact82@sante-cherbourg.fr,Cherbourg,Normandie
+C0083,District Sanitaire de Limoges,district_sanitaire,04 56 35 17 75,contact83@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0084,District Sanitaire de Caen,district_sanitaire,+33 5 55 57 45 79,contact84@sante-caen.fr,Caen,Normandie
+C0085,Clinique Nantes 85,clinique,+33 (0)3 28 99 51 58,contact85@sante-nantes.fr,Nantes,Pays de la Loire
+C0086,Clinique Reims 86,clinique,0518634060,contact86@sante-reims.fr,Reims,Grand Est
+C0087,District Sanitaire de Le Havre,district_sanitaire,+33 (0)3 87 87 38 50,contact87@sante-le-havre.fr,Le Havre,Normandie
+C0088,District Sanitaire de Le Mans,district_sanitaire,04 15 07 81 13,contact88@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0089,Clinique Nîmes 89,clinique,+33 2 45 67 91 81,contact89@sante-nîmes.fr,Nîmes,Occitanie
+C0090,District Sanitaire de Nîmes,district_sanitaire,+33 3 10 72 93 63,contact90@sante-nîmes.fr,Nîmes,Occitanie
+C0091,Clinique Cherbourg 91,clinique,+33 (0)2 30 51 18 80,contact91@sante-cherbourg.fr,Cherbourg,Normandie
+C0092,District Sanitaire de Dunkerque,district_sanitaire,01 73 09 39 74,contact92@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0093,Hôpital Chrétien de Lorient,hopital,+33 (0)5 08 34 12 40,contact93@sante-lorient.fr,Lorient,Bretagne
+C0094,Hôpital Bègue de Albi,hopital,+33 (0)2 97 89 69 41,contact94@sante-albi.fr,Albi,Occitanie
+C0095,District Sanitaire de Lille,district_sanitaire,02 55 31 41 51,contact95@sante-lille.fr,Lille,Hauts-de-France
+C0096,District Sanitaire de Angers,district_sanitaire,0465725658,contact96@sante-angers.fr,Angers,Pays de la Loire
+C0097,Hôpital Lévêque de Annecy,hopital,+33 5 54 66 26 62,contact97@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0098,Hôpital Pinto de Lille,hopital,03 44 86 74 88,contact98@sante-lille.fr,Lille,Hauts-de-France
+C0099,District Sanitaire de Dunkerque,district_sanitaire,0456609846,contact99@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0100,Hôpital Barbe de Pau,hopital,+33 (0)5 63 79 22 33,contact100@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0101,Clinique Perpignan 101,clinique,+33 (0)4 20 40 82 59,contact101@sante-perpignan.fr,Perpignan,Occitanie
+C0102,Hôpital Delorme de Saint-Denis,hopital,02 45 91 48 70,contact102@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0103,Clinique Avignon 103,clinique,+33 (0)2 99 03 39 97,contact103@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0104,Hôpital Thierry de Perpignan,hopital,0633998558,contact104@sante-perpignan.fr,Perpignan,Occitanie
+C0105,Hôpital Toussaint de Reims,hopital,0379648678,contact105@sante-reims.fr,Reims,Grand Est
+C0106,District Sanitaire de Strasbourg,district_sanitaire,+33 4 72 40 37 24,contact106@sante-strasbourg.fr,Strasbourg,Grand Est
+C0107,Hôpital Baudry de Bourges,hopital,+33 (0)2 22 95 15 15,contact107@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0108,Clinique Bordeaux 108,clinique,02 34 30 62 04,contact108@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0109,District Sanitaire de Le Mans,district_sanitaire,+33 3 84 60 43 22,contact109@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0110,District Sanitaire de Saint-Nazaire,district_sanitaire,+33 5 45 23 50 33,contact110@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0111,Hôpital Grenier de Paris,hopital,01 76 39 05 02,contact111@sante-paris.fr,Paris,Île-de-France
+C0112,Hôpital Boutin de Amiens,hopital,+33 (0)3 56 13 08 85,contact112@sante-amiens.fr,Amiens,Hauts-de-France
+C0113,District Sanitaire de Vannes,district_sanitaire,0296534749,contact113@sante-vannes.fr,Vannes,Bretagne
+C0114,Clinique Marseille 114,clinique,+33 6 30 32 61 23,contact114@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0115,Hôpital Allain de Nîmes,hopital,0243897470,contact115@sante-nîmes.fr,Nîmes,Occitanie
+C0116,Clinique Versailles 116,clinique,02 40 15 11 68,contact116@sante-versailles.fr,Versailles,Île-de-France
+C0117,Clinique Chartres 117,clinique,04 23 79 18 01,contact117@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0118,Clinique Lyon 118,clinique,0183227678,contact118@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0119,Hôpital Perrier de Alençon,hopital,0749903082,contact119@sante-alençon.fr,Alençon,Normandie
+C0120,District Sanitaire de Chartres,district_sanitaire,01 76 66 43 67,contact120@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0121,Clinique Montpellier 121,clinique,03 66 34 75 47,contact121@sante-montpellier.fr,Montpellier,Occitanie
+C0122,District Sanitaire de Marseille,district_sanitaire,+33 4 50 44 64 57,contact122@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0123,District Sanitaire de Reims,district_sanitaire,05 81 89 69 63,contact123@sante-reims.fr,Reims,Grand Est
+C0124,District Sanitaire de Nice,district_sanitaire,03 24 91 89 28,contact124@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0125,District Sanitaire de Orléans,district_sanitaire,0741370132,contact125@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0126,District Sanitaire de Strasbourg,district_sanitaire,0310778153,contact126@sante-strasbourg.fr,Strasbourg,Grand Est
+C0127,District Sanitaire de Vannes,district_sanitaire,0229076173,contact127@sante-vannes.fr,Vannes,Bretagne
+C0128,Clinique Rennes 128,clinique,+33 6 35 09 71 96,contact128@sante-rennes.fr,Rennes,Bretagne
+C0129,District Sanitaire de Nantes,district_sanitaire,0134836481,contact129@sante-nantes.fr,Nantes,Pays de la Loire
+C0130,Clinique Toulon 130,clinique,+33 4 81 03 29 12,contact130@sante-toulon.fr,Toulon,Provence-Alpes-Cote-d-Azur
+C0131,Clinique Dijon 131,clinique,0246210670,contact131@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0132,Hôpital Roche de Clermont-Ferrand,hopital,0247679957,contact132@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0133,District Sanitaire de Dijon,district_sanitaire,0596315188,contact133@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0134,Hôpital Vasseur de Belfort,hopital,+33 1 83 24 50 55,contact134@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0135,District Sanitaire de Boulogne-Billancourt,district_sanitaire,06 71 92 32 56,contact135@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0136,District Sanitaire de Reims,district_sanitaire,0158428970,contact136@sante-reims.fr,Reims,Grand Est
+C0137,District Sanitaire de Saint-Nazaire,district_sanitaire,+33 2 22 26 76 57,contact137@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0138,Hôpital Julien de Limoges,hopital,02 85 94 04 32,contact138@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0139,Hôpital Verdier de Mâcon,hopital,+33 1 53 80 75 84,contact139@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0140,Hôpital Boucher de Amiens,hopital,+33 (0)1 43 98 01 59,contact140@sante-amiens.fr,Amiens,Hauts-de-France
+C0141,Clinique Toulouse 141,clinique,0490950439,contact141@sante-toulouse.fr,Toulouse,Occitanie
+C0142,Clinique Valenciennes 142,clinique,0172534946,contact142@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0143,Clinique Lorient 143,clinique,+33 (0)1 82 16 81 73,contact143@sante-lorient.fr,Lorient,Bretagne
+C0144,Clinique Versailles 144,clinique,0471930007,contact144@sante-versailles.fr,Versailles,Île-de-France
+C0145,District Sanitaire de Strasbourg,district_sanitaire,+33 2 51 25 05 81,contact145@sante-strasbourg.fr,Strasbourg,Grand Est
+C0146,Hôpital Morin de Metz,hopital,+33 3 90 90 24 06,contact146@sante-metz.fr,Metz,Grand Est
+C0147,Clinique Nancy 147,clinique,+33 (0)1 53 97 13 37,contact147@sante-nancy.fr,Nancy,Grand Est
+C0148,Clinique Mâcon 148,clinique,+33 4 22 45 06 63,contact148@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0149,Clinique Reims 149,clinique,0140266553,contact149@sante-reims.fr,Reims,Grand Est
+C0150,Clinique Mâcon 150,clinique,06 42 69 76 65,contact150@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0151,Hôpital Lemoine de Quimper,hopital,+33 1 56 09 57 54,contact151@sante-quimper.fr,Quimper,Bretagne
+C0152,Hôpital Gomez de Mâcon,hopital,+33 2 34 17 48 23,contact152@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0153,Hôpital Martinez de Avignon,hopital,0411925753,contact153@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0154,Clinique Quimper 154,clinique,02 32 49 80 89,contact154@sante-quimper.fr,Quimper,Bretagne
+C0155,Clinique Lyon 155,clinique,+33 4 70 98 80 52,contact155@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0156,Clinique Bourges 156,clinique,+33 (0)1 42 23 53 60,contact156@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0157,District Sanitaire de La Roche-sur-Yon,district_sanitaire,+33 (0)1 60 19 45 74,contact157@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0158,District Sanitaire de Nice,district_sanitaire,+33 (0)3 67 42 96 93,contact158@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0159,Clinique Angers 159,clinique,+33 (0)1 80 56 63 19,contact159@sante-angers.fr,Angers,Pays de la Loire
+C0160,District Sanitaire de Boulogne-Billancourt,district_sanitaire,+33 4 37 61 18 82,contact160@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0161,District Sanitaire de Toulon,district_sanitaire,+33 (0)6 03 09 90 78,contact161@sante-toulon.fr,Toulon,Provence-Alpes-Cote-d-Azur
+C0162,District Sanitaire de Paris,district_sanitaire,+33 2 51 08 97 59,contact162@sante-paris.fr,Paris,Île-de-France
+C0163,Clinique Blois 163,clinique,+33 4 26 09 36 72,contact163@sante-blois.fr,Blois,Centre-Val de Loire
+C0164,Hôpital Boulay de Brest,hopital,0457914070,contact164@sante-brest.fr,Brest,Bretagne
+C0165,District Sanitaire de Bayonne,district_sanitaire,0358218704,contact165@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0166,Hôpital Blondel de Nantes,hopital,0363984987,contact166@sante-nantes.fr,Nantes,Pays de la Loire
+C0167,District Sanitaire de Grenoble,district_sanitaire,+33 (0)4 94 27 38 63,contact167@sante-grenoble.fr,Grenoble,Auvergne-Rhône-Alpes
+C0168,Clinique Metz 168,clinique,+33 2 41 41 76 45,contact168@sante-metz.fr,Metz,Grand Est
+C0169,District Sanitaire de Rouen,district_sanitaire,+33 6 56 33 49 27,contact169@sante-rouen.fr,Rouen,Normandie
+C0170,Clinique Pau 170,clinique,+33 (0)2 32 77 10 14,contact170@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0171,Hôpital Voisin de Nancy,hopital,06 85 77 39 60,contact171@sante-nancy.fr,Nancy,Grand Est
+C0172,District Sanitaire de Caen,district_sanitaire,0389013031,contact172@sante-caen.fr,Caen,Normandie
+C0173,Clinique Nancy 173,clinique,+33 (0)5 59 99 33 84,contact173@sante-nancy.fr,Nancy,Grand Est
+C0174,Hôpital Daniel de Bourges,hopital,08 03 51 17 86,contact174@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0175,District Sanitaire de Lyon,district_sanitaire,04 56 60 62 09,contact175@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0176,District Sanitaire de Pau,district_sanitaire,04 20 24 93 24,contact176@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0177,Hôpital Alexandre de Avignon,hopital,+33 (0)1 74 56 13 84,contact177@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0178,District Sanitaire de Roubaix,district_sanitaire,06 34 62 94 14,contact178@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0179,District Sanitaire de Le Mans,district_sanitaire,+33 (0)6 98 62 35 71,contact179@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0180,Hôpital Marques de Dunkerque,hopital,04 37 31 95 13,contact180@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0181,Hôpital Collet de Grenoble,hopital,02 72 25 21 49,contact181@sante-grenoble.fr,Grenoble,Auvergne-Rhône-Alpes
+C0182,District Sanitaire de Le Mans,district_sanitaire,0579690330,contact182@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0183,District Sanitaire de Nantes,district_sanitaire,+33 (0)4 74 84 20 43,contact183@sante-nantes.fr,Nantes,Pays de la Loire
+C0184,District Sanitaire de Metz,district_sanitaire,+33 1 78 68 04 10,contact184@sante-metz.fr,Metz,Grand Est
+C0185,District Sanitaire de Annecy,district_sanitaire,+33 (0)4 89 92 05 33,contact185@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0186,Hôpital Delorme de Roubaix,hopital,0296651002,contact186@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0187,Clinique Besançon 187,clinique,04 73 62 78 03,contact187@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0188,Hôpital Peltier de Brest,hopital,+33 3 57 55 30 16,contact188@sante-brest.fr,Brest,Bretagne
+C0189,Hôpital Mallet de Montpellier,hopital,01 30 14 85 01,contact189@sante-montpellier.fr,Montpellier,Occitanie
+C0190,Clinique Nantes 190,clinique,04 86 46 43 18,contact190@sante-nantes.fr,Nantes,Pays de la Loire
+C0191,Clinique Vannes 191,clinique,+33 (0)2 37 81 76 69,contact191@sante-vannes.fr,Vannes,Bretagne
+C0192,Hôpital Robin de La Roche-sur-Yon,hopital,0352191434,contact192@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0193,Hôpital Peron de Rouen,hopital,+33 5 33 49 82 21,contact193@sante-rouen.fr,Rouen,Normandie
+C0194,District Sanitaire de Dunkerque,district_sanitaire,+33 4 80 94 13 83,contact194@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0195,District Sanitaire de Mâcon,district_sanitaire,0489910497,contact195@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0196,District Sanitaire de Aix-en-Provence,district_sanitaire,+33 1 55 71 87 61,contact196@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0197,Clinique Grenoble 197,clinique,+33 (0)2 56 56 46 33,contact197@sante-grenoble.fr,Grenoble,Auvergne-Rhône-Alpes
+C0198,Clinique Orléans 198,clinique,0475129809,contact198@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0199,Clinique La Roche-sur-Yon 199,clinique,0474215700,contact199@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0200,District Sanitaire de Bayonne,district_sanitaire,+33 (0)2 52 29 55 34,contact200@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0201,Hôpital Couturier de Caen,hopital,04 70 56 43 34,contact201@sante-caen.fr,Caen,Normandie
+C0202,Hôpital Chauvin de Avignon,hopital,+33 5 56 80 37 08,contact202@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0203,Hôpital Lévy de Annecy,hopital,02 97 12 98 37,contact203@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0204,Hôpital Vasseur de Amiens,hopital,0491455108,contact204@sante-amiens.fr,Amiens,Hauts-de-France
+C0205,Clinique Reims 205,clinique,0470351828,contact205@sante-reims.fr,Reims,Grand Est
+C0206,Hôpital Bodin de Quimper,hopital,03 57 03 31 65,contact206@sante-quimper.fr,Quimper,Bretagne
+C0207,District Sanitaire de Amiens,district_sanitaire,+33 5 55 21 24 22,contact207@sante-amiens.fr,Amiens,Hauts-de-France
+C0208,Hôpital Pruvost de Quimper,hopital,+33 (0)1 81 00 43 39,contact208@sante-quimper.fr,Quimper,Bretagne
+C0209,District Sanitaire de Bourges,district_sanitaire,0494597975,contact209@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0210,District Sanitaire de Rennes,district_sanitaire,02 51 14 83 84,contact210@sante-rennes.fr,Rennes,Bretagne
+C0211,District Sanitaire de Tours,district_sanitaire,+33 2 44 37 41 99,contact211@sante-tours.fr,Tours,Centre-Val de Loire
+C0212,Hôpital Delahaye de Caen,hopital,+33 (0)4 23 75 85 88,contact212@sante-caen.fr,Caen,Normandie
+C0213,District Sanitaire de Chartres,district_sanitaire,+33 (0)2 62 50 64 57,contact213@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0214,District Sanitaire de Le Havre,district_sanitaire,02 62 87 89 36,contact214@sante-le-havre.fr,Le Havre,Normandie
+C0215,Hôpital Mallet de Paris,hopital,0297531710,contact215@sante-paris.fr,Paris,Île-de-France
+C0216,Clinique Montreuil 216,clinique,+33 5 64 65 26 49,contact216@sante-montreuil.fr,Montreuil,Île-de-France
+C0217,District Sanitaire de Tours,district_sanitaire,+33 (0)4 77 61 60 93,contact217@sante-tours.fr,Tours,Centre-Val de Loire
+C0218,District Sanitaire de Avignon,district_sanitaire,0228870674,contact218@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0219,District Sanitaire de Saint-Denis,district_sanitaire,+33 (0)4 83 03 16 85,contact219@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0220,District Sanitaire de Quimper,district_sanitaire,+33 7 48 58 62 80,contact220@sante-quimper.fr,Quimper,Bretagne
+C0221,Hôpital Martineau de Dunkerque,hopital,0482941343,contact221@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0222,Clinique Blois 222,clinique,+33 1 78 77 13 21,contact222@sante-blois.fr,Blois,Centre-Val de Loire
+C0223,District Sanitaire de Nantes,district_sanitaire,+33 (0)3 79 61 99 95,contact223@sante-nantes.fr,Nantes,Pays de la Loire
+C0224,Clinique Versailles 224,clinique,+33 (0)3 73 22 56 75,contact224@sante-versailles.fr,Versailles,Île-de-France
+C0225,Clinique Aix-en-Provence 225,clinique,+33 4 75 65 94 13,contact225@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0226,District Sanitaire de Nîmes,district_sanitaire,+33 2 58 68 05 84,contact226@sante-nîmes.fr,Nîmes,Occitanie
+C0227,District Sanitaire de Poitiers,district_sanitaire,+33 (0)4 56 68 03 85,contact227@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0228,Clinique Metz 228,clinique,+33 3 22 10 98 09,contact228@sante-metz.fr,Metz,Grand Est
+C0229,District Sanitaire de Poitiers,district_sanitaire,0172221573,contact229@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0230,Clinique Rennes 230,clinique,04 70 64 75 34,contact230@sante-rennes.fr,Rennes,Bretagne
+C0231,Hôpital Renard de Perpignan,hopital,0248240060,contact231@sante-perpignan.fr,Perpignan,Occitanie
+C0232,Hôpital Rivière de Dunkerque,hopital,+33 (0)6 95 58 39 15,contact232@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0233,Hôpital Martinez de Bordeaux,hopital,+33 (0)1 39 60 30 18,contact233@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0234,District Sanitaire de Dunkerque,district_sanitaire,0495983963,contact234@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0235,Hôpital Cousin de Nice,hopital,+33 (0)3 20 20 24 41,contact235@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0236,District Sanitaire de Mulhouse,district_sanitaire,0232812360,contact236@sante-mulhouse.fr,Mulhouse,Grand Est
+C0237,Hôpital Camus de Reims,hopital,04 79 49 92 26,contact237@sante-reims.fr,Reims,Grand Est
+C0238,Clinique La Roche-sur-Yon 238,clinique,0640440071,contact238@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0239,Clinique Angers 239,clinique,+33 1 81 91 31 04,contact239@sante-angers.fr,Angers,Pays de la Loire
+C0240,Clinique Paris 240,clinique,+33 6 95 90 37 33,contact240@sante-paris.fr,Paris,Île-de-France
+C0241,Hôpital Martins de Lorient,hopital,0562028375,contact241@sante-lorient.fr,Lorient,Bretagne
+C0242,Clinique Albi 242,clinique,+33 2 32 87 15 76,contact242@sante-albi.fr,Albi,Occitanie
+C0243,Clinique Paris 243,clinique,+33 1 80 83 34 88,contact243@sante-paris.fr,Paris,Île-de-France
+C0244,District Sanitaire de La Roche-sur-Yon,district_sanitaire,02 41 85 23 92,contact244@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0245,Clinique Blois 245,clinique,03 75 09 31 84,contact245@sante-blois.fr,Blois,Centre-Val de Loire
+C0246,Hôpital Bernard de Rennes,hopital,02 51 74 55 04,contact246@sante-rennes.fr,Rennes,Bretagne
+C0247,Clinique Nice 247,clinique,02 33 66 69 55,contact247@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0248,Clinique Belfort 248,clinique,0471968832,contact248@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0249,Clinique Strasbourg 249,clinique,+33 (0)4 91 03 20 41,contact249@sante-strasbourg.fr,Strasbourg,Grand Est
+C0250,District Sanitaire de Montreuil,district_sanitaire,05 46 75 26 97,contact250@sante-montreuil.fr,Montreuil,Île-de-France
+C0251,District Sanitaire de Nîmes,district_sanitaire,0156013801,contact251@sante-nîmes.fr,Nîmes,Occitanie
+C0252,Clinique Lille 252,clinique,03 80 68 50 42,contact252@sante-lille.fr,Lille,Hauts-de-France
+C0253,District Sanitaire de Lorient,district_sanitaire,0490096151,contact253@sante-lorient.fr,Lorient,Bretagne
+C0254,District Sanitaire de Valenciennes,district_sanitaire,+33 (0)4 49 09 14 83,contact254@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0255,Hôpital Brunel de Rouen,hopital,+33 2 19 07 36 03,contact255@sante-rouen.fr,Rouen,Normandie
+C0256,Clinique Saint-Étienne 256,clinique,03 10 35 56 19,contact256@sante-saint-étienne.fr,Saint-Étienne,Auvergne-Rhône-Alpes
+C0257,Clinique Mulhouse 257,clinique,0524897916,contact257@sante-mulhouse.fr,Mulhouse,Grand Est
+C0258,District Sanitaire de Limoges,district_sanitaire,+33 4 77 72 34 51,contact258@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0259,District Sanitaire de Lorient,district_sanitaire,+33 4 23 95 37 43,contact259@sante-lorient.fr,Lorient,Bretagne
+C0260,Hôpital Thibault de Paris,hopital,05 67 96 52 53,contact260@sante-paris.fr,Paris,Île-de-France
+C0261,Clinique Poitiers 261,clinique,05 32 67 07 46,contact261@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0262,Hôpital Lagarde de Lorient,hopital,03 10 40 50 90,contact262@sante-lorient.fr,Lorient,Bretagne
+C0263,Hôpital Chevalier de Alençon,hopital,0148883442,contact263@sante-alençon.fr,Alençon,Normandie
+C0264,Clinique Mulhouse 264,clinique,+33 3 79 31 57 63,contact264@sante-mulhouse.fr,Mulhouse,Grand Est
+C0265,District Sanitaire de Pau,district_sanitaire,0236924481,contact265@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0266,District Sanitaire de Belfort,district_sanitaire,+33 (0)3 10 23 79 99,contact266@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0267,District Sanitaire de Mulhouse,district_sanitaire,+33 (0)4 32 25 11 65,contact267@sante-mulhouse.fr,Mulhouse,Grand Est
+C0268,District Sanitaire de Lorient,district_sanitaire,+33 (0)3 86 40 11 59,contact268@sante-lorient.fr,Lorient,Bretagne
+C0269,Clinique Le Havre 269,clinique,+33 1 69 16 06 23,contact269@sante-le-havre.fr,Le Havre,Normandie
+C0270,Clinique Boulogne-Billancourt 270,clinique,+33 (0)3 52 22 89 99,contact270@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0271,Clinique Orléans 271,clinique,+33 (0)1 34 49 98 02,contact271@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0272,District Sanitaire de Le Havre,district_sanitaire,+33 (0)3 90 91 82 18,contact272@sante-le-havre.fr,Le Havre,Normandie
+C0273,District Sanitaire de Dijon,district_sanitaire,0631132727,contact273@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0274,District Sanitaire de Angers,district_sanitaire,+33 6 55 93 19 48,contact274@sante-angers.fr,Angers,Pays de la Loire
+C0275,Hôpital Pascal de Alençon,hopital,+33 2 49 10 62 48,contact275@sante-alençon.fr,Alençon,Normandie
+C0276,District Sanitaire de Dijon,district_sanitaire,02 47 89 55 99,contact276@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0277,District Sanitaire de Le Mans,district_sanitaire,+33 (0)1 82 85 01 01,contact277@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0278,Clinique Chartres 278,clinique,+33 (0)6 06 97 89 91,contact278@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0279,Hôpital Rodriguez de Limoges,hopital,+33 (0)1 79 81 44 23,contact279@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0280,Hôpital Fischer de Rouen,hopital,0463443348,contact280@sante-rouen.fr,Rouen,Normandie
+C0281,Clinique Saint-Denis 281,clinique,0360963192,contact281@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0282,Clinique Nice 282,clinique,0443108307,contact282@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0283,Clinique Besançon 283,clinique,05 46 16 11 56,contact283@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0284,Clinique Vannes 284,clinique,+33 4 85 55 63 34,contact284@sante-vannes.fr,Vannes,Bretagne
+C0285,District Sanitaire de Dijon,district_sanitaire,+33 4 42 09 33 28,contact285@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0286,Hôpital Hebert de Bayonne,hopital,04 22 17 38 97,contact286@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0287,District Sanitaire de Quimper,district_sanitaire,03 70 15 18 68,contact287@sante-quimper.fr,Quimper,Bretagne
+C0288,Clinique La Roche-sur-Yon 288,clinique,+33 (0)3 66 74 52 63,contact288@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0289,Clinique Reims 289,clinique,+33 (0)7 41 29 29 92,contact289@sante-reims.fr,Reims,Grand Est
+C0290,District Sanitaire de Quimper,district_sanitaire,+33 4 49 76 64 14,contact290@sante-quimper.fr,Quimper,Bretagne
+C0291,District Sanitaire de Metz,district_sanitaire,0485102391,contact291@sante-metz.fr,Metz,Grand Est
+C0292,Hôpital Gomes de Le Mans,hopital,+33 7 76 35 84 30,contact292@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0293,Clinique Valenciennes 293,clinique,02 47 70 97 05,contact293@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0294,Clinique Nîmes 294,clinique,0371363454,contact294@sante-nîmes.fr,Nîmes,Occitanie
+C0295,District Sanitaire de Besançon,district_sanitaire,02 34 81 27 38,contact295@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0296,Clinique Mâcon 296,clinique,03 72 33 78 39,contact296@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0297,District Sanitaire de Angers,district_sanitaire,+33 (0)2 28 84 09 82,contact297@sante-angers.fr,Angers,Pays de la Loire
+C0298,Clinique Belfort 298,clinique,+33 (0)2 54 05 70 11,contact298@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0299,District Sanitaire de Annecy,district_sanitaire,+33 (0)1 58 48 80 29,contact299@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0300,Clinique Lorient 300,clinique,0323479664,contact300@sante-lorient.fr,Lorient,Bretagne
+C0301,Clinique Reims 301,clinique,02 40 46 36 87,contact301@sante-reims.fr,Reims,Grand Est
+C0302,District Sanitaire de Boulogne-Billancourt,district_sanitaire,04 85 12 51 04,contact302@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0303,Clinique Clermont-Ferrand 303,clinique,0533565161,contact303@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0304,District Sanitaire de Bourges,district_sanitaire,04 22 30 37 78,contact304@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0305,Hôpital Gérard de Le Mans,hopital,+33 (0)1 83 35 63 55,contact305@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0306,District Sanitaire de Quimper,district_sanitaire,0468159218,contact306@sante-quimper.fr,Quimper,Bretagne
+C0307,Hôpital Grondin de Belfort,hopital,+33 (0)3 56 98 99 39,contact307@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0308,District Sanitaire de Annecy,district_sanitaire,+33 (0)3 88 49 57 46,contact308@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0309,Hôpital Toussaint de Caen,hopital,04 86 43 39 71,contact309@sante-caen.fr,Caen,Normandie
+C0310,Hôpital Mahe de Montreuil,hopital,+33 (0)1 47 87 54 48,contact310@sante-montreuil.fr,Montreuil,Île-de-France
+C0311,Hôpital Picard de Tours,hopital,0352477171,contact311@sante-tours.fr,Tours,Centre-Val de Loire
+C0312,Clinique Saint-Étienne 312,clinique,+33 (0)2 38 96 51 53,contact312@sante-saint-étienne.fr,Saint-Étienne,Auvergne-Rhône-Alpes
+C0313,Hôpital Mendès de Mâcon,hopital,0698032134,contact313@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0314,Hôpital Tanguy de Tours,hopital,+33 (0)3 64 40 42 56,contact314@sante-tours.fr,Tours,Centre-Val de Loire
+C0315,Clinique Brest 315,clinique,0443112986,contact315@sante-brest.fr,Brest,Bretagne
+C0316,Clinique Blois 316,clinique,+33 (0)3 88 24 69 31,contact316@sante-blois.fr,Blois,Centre-Val de Loire
+C0317,Clinique Tours 317,clinique,0362359577,contact317@sante-tours.fr,Tours,Centre-Val de Loire
+C0318,District Sanitaire de Metz,district_sanitaire,05 62 96 26 02,contact318@sante-metz.fr,Metz,Grand Est
+C0319,District Sanitaire de Paris,district_sanitaire,0477213014,contact319@sante-paris.fr,Paris,Île-de-France
+C0320,District Sanitaire de Caen,district_sanitaire,+33 2 58 77 82 22,contact320@sante-caen.fr,Caen,Normandie
+C0321,Hôpital Mallet de Dijon,hopital,+33 (0)6 81 79 71 92,contact321@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0322,Hôpital Buisson de Nice,hopital,0345100221,contact322@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0323,Hôpital Nguyen de Aix-en-Provence,hopital,02 76 24 49 72,contact323@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0324,Hôpital Marion de Belfort,hopital,+33 (0)4 91 96 19 99,contact324@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0325,District Sanitaire de Boulogne-Billancourt,district_sanitaire,+33 3 54 14 48 83,contact325@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0326,Clinique Rouen 326,clinique,+33 (0)5 46 72 06 45,contact326@sante-rouen.fr,Rouen,Normandie
+C0327,District Sanitaire de Dunkerque,district_sanitaire,+33 (0)4 42 03 80 16,contact327@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0328,Clinique Vannes 328,clinique,+33 4 42 39 54 73,contact328@sante-vannes.fr,Vannes,Bretagne
+C0329,Clinique Bayonne 329,clinique,0155147498,contact329@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0330,Hôpital Fournier de Amiens,hopital,0555408825,contact330@sante-amiens.fr,Amiens,Hauts-de-France
+C0331,District Sanitaire de Reims,district_sanitaire,0244559027,contact331@sante-reims.fr,Reims,Grand Est
+C0332,District Sanitaire de Angers,district_sanitaire,02 85 32 31 10,contact332@sante-angers.fr,Angers,Pays de la Loire
+C0333,District Sanitaire de Bordeaux,district_sanitaire,05 79 70 77 75,contact333@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0334,District Sanitaire de Metz,district_sanitaire,+33 2 61 20 79 74,contact334@sante-metz.fr,Metz,Grand Est
+C0335,Hôpital Masson de Tours,hopital,03 70 54 49 58,contact335@sante-tours.fr,Tours,Centre-Val de Loire
+C0336,Clinique Cherbourg 336,clinique,0631543943,contact336@sante-cherbourg.fr,Cherbourg,Normandie
+C0337,Hôpital Chartier de Quimper,hopital,+33 (0)2 90 01 52 99,contact337@sante-quimper.fr,Quimper,Bretagne
+C0338,Hôpital Gallet de Marseille,hopital,+33 (0)4 98 84 70 96,contact338@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0339,Clinique Pau 339,clinique,+33 2 62 87 06 14,contact339@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0340,Clinique Toulouse 340,clinique,0182296195,contact340@sante-toulouse.fr,Toulouse,Occitanie
+C0341,Clinique Nice 341,clinique,03 86 80 91 10,contact341@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0342,Clinique Roubaix 342,clinique,+33 6 32 47 55 73,contact342@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0343,Hôpital Dupuis de Alençon,hopital,03 57 63 52 70,contact343@sante-alençon.fr,Alençon,Normandie
+C0344,District Sanitaire de Roubaix,district_sanitaire,+33 4 92 56 49 69,contact344@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0345,District Sanitaire de Toulouse,district_sanitaire,+33 2 32 64 48 89,contact345@sante-toulouse.fr,Toulouse,Occitanie
+C0346,Clinique Saint-Étienne 346,clinique,04 65 95 29 17,contact346@sante-saint-étienne.fr,Saint-Étienne,Auvergne-Rhône-Alpes
+C0347,District Sanitaire de Pau,district_sanitaire,05 58 86 12 53,contact347@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0348,District Sanitaire de Quimper,district_sanitaire,+33 (0)5 35 13 90 28,contact348@sante-quimper.fr,Quimper,Bretagne
+C0349,Clinique Clermont-Ferrand 349,clinique,+33 5 86 68 59 21,contact349@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0350,Hôpital Maillard de Caen,hopital,+33 3 61 77 88 93,contact350@sante-caen.fr,Caen,Normandie
+C0351,Hôpital Lopez de Pau,hopital,0596088480,contact351@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0352,Clinique La Roche-sur-Yon 352,clinique,0155932421,contact352@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0353,Clinique Avignon 353,clinique,0278674601,contact353@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0354,Hôpital Gay de Brest,hopital,02 51 42 49 84,contact354@sante-brest.fr,Brest,Bretagne
+C0355,Hôpital Lefèvre de Chartres,hopital,+33 (0)5 16 65 22 88,contact355@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0356,District Sanitaire de Lorient,district_sanitaire,0434648849,contact356@sante-lorient.fr,Lorient,Bretagne
+C0357,Hôpital Schneider de Belfort,hopital,02 69 82 07 61,contact357@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0358,Hôpital Rossi de Rouen,hopital,+33 1 43 97 46 57,contact358@sante-rouen.fr,Rouen,Normandie
+C0359,Hôpital Dijoux de Vannes,hopital,+33 2 69 12 24 46,contact359@sante-vannes.fr,Vannes,Bretagne
+C0360,Hôpital Foucher de Alençon,hopital,+33 (0)1 83 51 61 39,contact360@sante-alençon.fr,Alençon,Normandie
+C0361,District Sanitaire de Poitiers,district_sanitaire,0179298297,contact361@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0362,District Sanitaire de Nantes,district_sanitaire,0278085073,contact362@sante-nantes.fr,Nantes,Pays de la Loire
+C0363,Clinique Albi 363,clinique,+33 3 45 91 24 56,contact363@sante-albi.fr,Albi,Occitanie
+C0364,Clinique Annecy 364,clinique,+33 (0)1 83 35 63 03,contact364@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0365,Hôpital Goncalves de Saint-Denis,hopital,05 94 02 56 50,contact365@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0366,Clinique Lorient 366,clinique,04 65 11 41 93,contact366@sante-lorient.fr,Lorient,Bretagne
+C0367,District Sanitaire de Rouen,district_sanitaire,02 77 53 01 85,contact367@sante-rouen.fr,Rouen,Normandie
+C0368,District Sanitaire de Angers,district_sanitaire,0665014427,contact368@sante-angers.fr,Angers,Pays de la Loire
+C0369,Clinique Saint-Denis 369,clinique,+33 3 66 00 11 81,contact369@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0370,District Sanitaire de Versailles,district_sanitaire,+33 (0)5 49 17 89 10,contact370@sante-versailles.fr,Versailles,Île-de-France
+C0371,Clinique Lyon 371,clinique,+33 (0)2 44 49 34 08,contact371@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0372,District Sanitaire de Strasbourg,district_sanitaire,+33 6 31 11 77 25,contact372@sante-strasbourg.fr,Strasbourg,Grand Est
+C0373,Clinique Paris 373,clinique,+33 (0)5 46 04 17 35,contact373@sante-paris.fr,Paris,Île-de-France
+C0374,Clinique Boulogne-Billancourt 374,clinique,+33 2 50 67 38 06,contact374@sante-boulogne-billancourt.fr,Boulogne-Billancourt,Île-de-France
+C0375,District Sanitaire de Limoges,district_sanitaire,+33 (0)3 75 52 89 07,contact375@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0376,Clinique Mâcon 376,clinique,0146915497,contact376@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0377,Clinique Aix-en-Provence 377,clinique,+33 5 54 74 71 16,contact377@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0378,District Sanitaire de Marseille,district_sanitaire,0385060769,contact378@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0379,Hôpital Brunel de Chartres,hopital,0359199336,contact379@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0380,Hôpital Nguyen de Bourges,hopital,+33 (0)4 99 60 08 69,contact380@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0381,Clinique Bayonne 381,clinique,03 87 16 27 03,contact381@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0382,District Sanitaire de Brest,district_sanitaire,+33 (0)4 68 89 12 43,contact382@sante-brest.fr,Brest,Bretagne
+C0383,Hôpital Bertrand de Toulouse,hopital,+33 (0)3 44 02 81 14,contact383@sante-toulouse.fr,Toulouse,Occitanie
+C0384,District Sanitaire de Dunkerque,district_sanitaire,+33 (0)1 82 85 17 80,contact384@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0385,Clinique Auxerre 385,clinique,+33 (0)1 77 42 46 08,contact385@sante-auxerre.fr,Auxerre,Bourgogne-Franche-Comté
+C0386,Hôpital Maréchal de Lorient,hopital,0470886569,contact386@sante-lorient.fr,Lorient,Bretagne
+C0387,Clinique Perpignan 387,clinique,+33 (0)5 57 51 17 77,contact387@sante-perpignan.fr,Perpignan,Occitanie
+C0388,Hôpital Bonnet de Poitiers,hopital,0426050401,contact388@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0389,Hôpital Pires de Dijon,hopital,0473851810,contact389@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0390,District Sanitaire de Blois,district_sanitaire,+33 (0)5 45 67 90 66,contact390@sante-blois.fr,Blois,Centre-Val de Loire
+C0391,Hôpital Labbé de Versailles,hopital,+33 (0)4 50 78 14 23,contact391@sante-versailles.fr,Versailles,Île-de-France
+C0392,District Sanitaire de Lyon,district_sanitaire,+33 (0)3 54 30 69 25,contact392@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0393,District Sanitaire de Saint-Denis,district_sanitaire,+33 (0)1 43 74 43 45,contact393@sante-saint-denis.fr,Saint-Denis,Île-de-France
+C0394,Hôpital Martin de Orléans,hopital,+33 (0)6 32 36 58 23,contact394@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0395,Clinique Dijon 395,clinique,+33 (0)3 60 19 08 04,contact395@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0396,District Sanitaire de Le Mans,district_sanitaire,+33 4 95 86 51 17,contact396@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0397,Hôpital Germain de Toulouse,hopital,+33 (0)4 85 41 76 16,contact397@sante-toulouse.fr,Toulouse,Occitanie
+C0398,Hôpital Mendès de Quimper,hopital,0432775854,contact398@sante-quimper.fr,Quimper,Bretagne
+C0399,Clinique Auxerre 399,clinique,+33 6 81 17 81 58,contact399@sante-auxerre.fr,Auxerre,Bourgogne-Franche-Comté
+C0400,District Sanitaire de Alençon,district_sanitaire,+33 5 47 59 01 82,contact400@sante-alençon.fr,Alençon,Normandie
+C0401,Clinique Reims 401,clinique,+33 5 40 91 45 25,contact401@sante-reims.fr,Reims,Grand Est
+C0402,Hôpital Peron de Bayonne,hopital,+33 (0)2 22 98 73 00,contact402@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0403,Clinique Toulon 403,clinique,+33 (0)5 49 17 28 30,contact403@sante-toulon.fr,Toulon,Provence-Alpes-Cote-d-Azur
+C0404,District Sanitaire de Montreuil,district_sanitaire,+33 (0)3 53 31 82 13,contact404@sante-montreuil.fr,Montreuil,Île-de-France
+C0405,District Sanitaire de Besançon,district_sanitaire,0249383808,contact405@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0406,District Sanitaire de Blois,district_sanitaire,+33 (0)6 34 81 95 65,contact406@sante-blois.fr,Blois,Centre-Val de Loire
+C0407,Clinique Nantes 407,clinique,+33 (0)2 62 89 68 14,contact407@sante-nantes.fr,Nantes,Pays de la Loire
+C0408,District Sanitaire de Blois,district_sanitaire,0278365066,contact408@sante-blois.fr,Blois,Centre-Val de Loire
+C0409,Clinique Nancy 409,clinique,0478722130,contact409@sante-nancy.fr,Nancy,Grand Est
+C0410,Clinique Poitiers 410,clinique,04 49 51 24 26,contact410@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0411,Clinique Bayonne 411,clinique,+33 1 56 80 06 14,contact411@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0412,Clinique Montpellier 412,clinique,05 19 29 08 05,contact412@sante-montpellier.fr,Montpellier,Occitanie
+C0413,Clinique Besançon 413,clinique,+33 (0)2 23 47 04 48,contact413@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0414,Clinique Montreuil 414,clinique,05 35 90 66 20,contact414@sante-montreuil.fr,Montreuil,Île-de-France
+C0415,District Sanitaire de Avignon,district_sanitaire,+33 (0)4 58 34 67 00,contact415@sante-avignon.fr,Avignon,Provence-Alpes-Cote-d-Azur
+C0416,Hôpital Gaillard de Pau,hopital,0479606090,contact416@sante-pau.fr,Pau,Nouvelle-Aquitaine
+C0417,Clinique Amiens 417,clinique,+33 (0)1 34 18 27 33,contact417@sante-amiens.fr,Amiens,Hauts-de-France
+C0418,Clinique Orléans 418,clinique,+33 2 51 90 55 49,contact418@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0419,District Sanitaire de Strasbourg,district_sanitaire,+33 (0)3 75 73 19 68,contact419@sante-strasbourg.fr,Strasbourg,Grand Est
+C0420,Hôpital Fouquet de Besançon,hopital,+33 (0)4 70 93 47 00,contact420@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0421,District Sanitaire de Dunkerque,district_sanitaire,+33 (0)4 69 32 63 43,contact421@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0422,Hôpital Berger de Alençon,hopital,07 90 93 90 54,contact422@sante-alençon.fr,Alençon,Normandie
+C0423,District Sanitaire de Grenoble,district_sanitaire,0508821840,contact423@sante-grenoble.fr,Grenoble,Auvergne-Rhône-Alpes
+C0424,Hôpital Lenoir de Auxerre,hopital,+33 5 82 50 05 03,contact424@sante-auxerre.fr,Auxerre,Bourgogne-Franche-Comté
+C0425,Clinique Le Mans 425,clinique,+33 (0)1 81 47 87 89,contact425@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0426,Hôpital Menard de Lille,hopital,+33 (0)5 54 26 03 37,contact426@sante-lille.fr,Lille,Hauts-de-France
+C0427,District Sanitaire de Toulouse,district_sanitaire,+33 (0)1 56 11 62 93,contact427@sante-toulouse.fr,Toulouse,Occitanie
+C0428,District Sanitaire de Le Mans,district_sanitaire,0139725482,contact428@sante-le-mans.fr,Le Mans,Pays de la Loire
+C0429,Clinique Caen 429,clinique,+33 (0)4 86 24 38 05,contact429@sante-caen.fr,Caen,Normandie
+C0430,Clinique Albi 430,clinique,+33 (0)2 46 52 87 80,contact430@sante-albi.fr,Albi,Occitanie
+C0431,Clinique Dunkerque 431,clinique,+33 1 75 43 47 66,contact431@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0432,Clinique Quimper 432,clinique,0558356551,contact432@sante-quimper.fr,Quimper,Bretagne
+C0433,District Sanitaire de Roubaix,district_sanitaire,+33 (0)7 67 67 36 90,contact433@sante-roubaix.fr,Roubaix,Hauts-de-France
+C0434,Hôpital Gomes de Saint-Nazaire,hopital,+33 3 54 08 26 47,contact434@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0435,Clinique Mâcon 435,clinique,+33 (0)2 76 93 15 28,contact435@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0436,Clinique Nîmes 436,clinique,+33 (0)6 31 99 25 12,contact436@sante-nîmes.fr,Nîmes,Occitanie
+C0437,District Sanitaire de Marseille,district_sanitaire,05 96 35 82 92,contact437@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0438,Hôpital Bourgeois de Montpellier,hopital,01 56 95 57 77,contact438@sante-montpellier.fr,Montpellier,Occitanie
+C0439,District Sanitaire de Valenciennes,district_sanitaire,04 87 84 31 68,contact439@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0440,Clinique Cherbourg 440,clinique,0382695514,contact440@sante-cherbourg.fr,Cherbourg,Normandie
+C0441,Clinique Limoges 441,clinique,+33 5 94 46 93 49,contact441@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0442,District Sanitaire de Perpignan,district_sanitaire,+33 1 88 45 60 70,contact442@sante-perpignan.fr,Perpignan,Occitanie
+C0443,District Sanitaire de Perpignan,district_sanitaire,+33 5 67 94 64 19,contact443@sante-perpignan.fr,Perpignan,Occitanie
+C0444,Clinique Bourges 444,clinique,0532816008,contact444@sante-bourges.fr,Bourges,Centre-Val de Loire
+C0445,Clinique Saint-Nazaire 445,clinique,0474473000,contact445@sante-saint-nazaire.fr,Saint-Nazaire,Pays de la Loire
+C0446,Hôpital Paris de Poitiers,hopital,+33 (0)1 34 79 91 54,contact446@sante-poitiers.fr,Poitiers,Nouvelle-Aquitaine
+C0447,Clinique Bayonne 447,clinique,+33 6 15 67 91 85,contact447@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0448,District Sanitaire de Bayonne,district_sanitaire,04 68 18 11 30,contact448@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0449,Hôpital Bertrand de Montreuil,hopital,03 87 57 72 48,contact449@sante-montreuil.fr,Montreuil,Île-de-France
+C0450,Hôpital Petit de Lyon,hopital,0367900103,contact450@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0451,District Sanitaire de Nice,district_sanitaire,0362010292,contact451@sante-nice.fr,Nice,Provence-Alpes-Cote-d-Azur
+C0452,District Sanitaire de Toulouse,district_sanitaire,+33 4 57 54 32 90,contact452@sante-toulouse.fr,Toulouse,Occitanie
+C0453,Hôpital Bigot de Bordeaux,hopital,+33 (0)6 31 12 23 05,contact453@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0454,Clinique Lorient 454,clinique,+33 (0)1 83 25 22 54,contact454@sante-lorient.fr,Lorient,Bretagne
+C0455,District Sanitaire de Montreuil,district_sanitaire,+33 (0)3 44 05 11 57,contact455@sante-montreuil.fr,Montreuil,Île-de-France
+C0456,Clinique Chartres 456,clinique,0554927766,contact456@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0457,Hôpital Fontaine de Blois,hopital,0370780348,contact457@sante-blois.fr,Blois,Centre-Val de Loire
+C0458,District Sanitaire de Montreuil,district_sanitaire,+33 5 18 26 40 46,contact458@sante-montreuil.fr,Montreuil,Île-de-France
+C0459,Hôpital Humbert de Marseille,hopital,+33 4 81 08 33 41,contact459@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0460,District Sanitaire de Quimper,district_sanitaire,+33 2 57 50 03 74,contact460@sante-quimper.fr,Quimper,Bretagne
+C0461,District Sanitaire de Lille,district_sanitaire,+33 3 20 69 44 94,contact461@sante-lille.fr,Lille,Hauts-de-France
+C0462,Hôpital Legrand de Mâcon,hopital,05 40 64 41 95,contact462@sante-mâcon.fr,Mâcon,Bourgogne-Franche-Comté
+C0463,District Sanitaire de Lyon,district_sanitaire,+33 (0)3 60 62 52 48,contact463@sante-lyon.fr,Lyon,Auvergne-Rhône-Alpes
+C0464,Hôpital Coulon de Limoges,hopital,+33 5 40 25 39 41,contact464@sante-limoges.fr,Limoges,Nouvelle-Aquitaine
+C0465,Clinique Alençon 465,clinique,+33 (0)3 20 98 15 23,contact465@sante-alençon.fr,Alençon,Normandie
+C0466,Clinique Metz 466,clinique,+33 (0)5 54 48 76 80,contact466@sante-metz.fr,Metz,Grand Est
+C0467,Clinique Clermont-Ferrand 467,clinique,0221106697,contact467@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0468,Hôpital Tanguy de La Roche-sur-Yon,hopital,+33 6 28 52 67 88,contact468@sante-la-roche-sur-yon.fr,La Roche-sur-Yon,Pays de la Loire
+C0469,Clinique Besançon 469,clinique,02 23 85 65 05,contact469@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0470,District Sanitaire de Orléans,district_sanitaire,+33 (0)6 34 19 98 06,contact470@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0471,Hôpital Wagner de Orléans,hopital,03 25 58 48 79,contact471@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0472,Clinique Aix-en-Provence 472,clinique,0178799561,contact472@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0473,Hôpital Pereira de Lorient,hopital,+33 (0)5 17 06 06 72,contact473@sante-lorient.fr,Lorient,Bretagne
+C0474,District Sanitaire de Orléans,district_sanitaire,01 70 87 11 16,contact474@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0475,Clinique Bordeaux 475,clinique,04 83 74 84 70,contact475@sante-bordeaux.fr,Bordeaux,Nouvelle-Aquitaine
+C0476,District Sanitaire de Toulon,district_sanitaire,+33 (0)1 56 54 72 74,contact476@sante-toulon.fr,Toulon,Provence-Alpes-Cote-d-Azur
+C0477,Hôpital Launay de Annecy,hopital,+33 4 85 35 36 95,contact477@sante-annecy.fr,Annecy,Auvergne-Rhône-Alpes
+C0478,District Sanitaire de Montpellier,district_sanitaire,0379114232,contact478@sante-montpellier.fr,Montpellier,Occitanie
+C0479,Clinique Cherbourg 479,clinique,+33 (0)5 86 65 89 67,contact479@sante-cherbourg.fr,Cherbourg,Normandie
+C0480,District Sanitaire de Paris,district_sanitaire,+33 2 19 14 70 06,contact480@sante-paris.fr,Paris,Île-de-France
+C0481,District Sanitaire de Valenciennes,district_sanitaire,03 60 05 64 39,contact481@sante-valenciennes.fr,Valenciennes,Hauts-de-France
+C0482,Hôpital Dumont de Orléans,hopital,+33 5 61 51 47 11,contact482@sante-orléans.fr,Orléans,Centre-Val de Loire
+C0483,Hôpital Gay de Strasbourg,hopital,+33 2 53 04 90 98,contact483@sante-strasbourg.fr,Strasbourg,Grand Est
+C0484,District Sanitaire de Caen,district_sanitaire,+33 (0)1 45 14 36 24,contact484@sante-caen.fr,Caen,Normandie
+C0485,Clinique Marseille 485,clinique,0296890812,contact485@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur
+C0486,Hôpital Dupont de Bayonne,hopital,0221677568,contact486@sante-bayonne.fr,Bayonne,Nouvelle-Aquitaine
+C0487,District Sanitaire de Cherbourg,district_sanitaire,0252520321,contact487@sante-cherbourg.fr,Cherbourg,Normandie
+C0488,Clinique Quimper 488,clinique,02 55 44 15 36,contact488@sante-quimper.fr,Quimper,Bretagne
+C0489,District Sanitaire de Besançon,district_sanitaire,+33 3 87 79 77 53,contact489@sante-besançon.fr,Besançon,Bourgogne-Franche-Comté
+C0490,District Sanitaire de Dijon,district_sanitaire,02 78 86 40 06,contact490@sante-dijon.fr,Dijon,Bourgogne-Franche-Comté
+C0491,Hôpital Samson de Belfort,hopital,0363450631,contact491@sante-belfort.fr,Belfort,Bourgogne-Franche-Comté
+C0492,Hôpital Diaz de Saint-Étienne,hopital,03 65 81 16 36,contact492@sante-saint-étienne.fr,Saint-Étienne,Auvergne-Rhône-Alpes
+C0493,District Sanitaire de Clermont-Ferrand,district_sanitaire,04 11 28 32 93,contact493@sante-clermont-ferrand.fr,Clermont-Ferrand,Auvergne-Rhône-Alpes
+C0494,Clinique Alençon 494,clinique,04 50 34 15 80,contact494@sante-alençon.fr,Alençon,Normandie
+C0495,District Sanitaire de Strasbourg,district_sanitaire,0148245404,contact495@sante-strasbourg.fr,Strasbourg,Grand Est
+C0496,Clinique Dunkerque 496,clinique,05 54 37 50 16,contact496@sante-dunkerque.fr,Dunkerque,Hauts-de-France
+C0497,District Sanitaire de Nîmes,district_sanitaire,+33 7 68 17 93 12,contact497@sante-nîmes.fr,Nîmes,Occitanie
+C0498,Hôpital Auger de Aix-en-Provence,hopital,+33 4 74 26 50 22,contact498@sante-aix-en-provence.fr,Aix-en-Provence,Provence-Alpes-Cote-d-Azur
+C0499,District Sanitaire de Chartres,district_sanitaire,0345370640,contact499@sante-chartres.fr,Chartres,Centre-Val de Loire
+C0500,District Sanitaire de Marseille,district_sanitaire,+33 (0)4 93 78 73 73,contact500@sante-marseille.fr,Marseille,Provence-Alpes-Cote-d-Azur

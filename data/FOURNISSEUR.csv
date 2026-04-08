@@ -1,0 +1,21 @@
+id_fournisseur,nom_fournisseur,contact,telephone,email,pays,ville
+1,Ferrand,Stéphanie Antoine,+33 2 77 49 30 17,stephanieantoine@ferrand.com,Allemagne,Gilles
+2,Philippe,Jean Mathieu,02 69 25 01 92,jeanmathieu@philippe.com,France,Nicolas
+3,Laroche S.A.,Odette Barbe,03 62 37 47 16,odettebarbe@laroche.com,Inde,Pages
+4,Ferrand,Susanne Bourdon,+33 4 75 51 09 36,susannebourdon@ferrand.com,Belgique,Ramos
+5,Roger Lamy S.A.S.,Françoise Marion,04 22 86 36 05,francoisemarion@rogerlamy.com,Belgique,Bruneau
+6,Roussel,Gilbert Ferrand,04 26 46 60 14,gilbertferrand@roussel.com,Suisse,Saint Yves-les-Bains
+7,Jacquet Giraud et Fils,Théodore Lefort,03 89 10 96 52,theodorelefort@jacquetgiraud.com,Allemagne,Pasquier-sur-Mer
+8,Rey SARL,Grégoire Alexandre,+33 (0)5 46 58 93 46,gregoirealexandre@rey.com,Italie,Lecontenec
+9,Merle S.A.,Sébastien Ledoux du Dupré,+33 (0)5 24 24 75 35,sebastienledouxdudupre@merle.com,Allemagne,Benard-sur-Perrot
+10,Devaux S.A.S.,André Carre,01 30 25 07 17,andrecarre@devaux.com,Espagne,Sainte Alexandria
+11,Gérard Perret et Fils,Pierre de la Vallet,0469635294,pierredelavallet@gerardperret.com,Royaume-Uni,Sainte AnastasieBourg
+12,Valentin S.A.S.,Raymond De Oliveira de Navarro,+33 4 72 17 29 00,raymonddeoliveiradenavarro@valentin.com,France,Verdier-sur-Mer
+13,Pascal S.A.,Océane-Martine David,07 51 75 25 56,oceanemartinedavid@pascal.com,France,Petit
+14,Weiss et Fils,Noël du Bernier,0299911559,noeldubernier@weiss.com,Allemagne,Julien
+15,Lagarde Rémy S.A.R.L.,Monique Wagner de la Bigot,+33 (0)4 91 38 45 96,moniquewagnerdelabigot@lagarderemy.com,Belgique,Guilbert-sur-Mer
+16,Lecomte Gros SA,Raymond Leleu,0230787504,raymondleleu@lecomtegros.com,Belgique,Sainte Lucas
+17,Bouvet S.A.,Benoît Le Potier,+33 (0)2 97 52 07 78,benoitlepotier@bouvet.com,Italie,Saint Roger
+18,Grenier Delorme S.A.,Danielle Legendre,0256027985,daniellelegendre@grenierdelorme.com,Espagne,Saint Élisabeth
+19,Roux SA,Étienne-Guillaume Dupuis,0328900569,etienneguillaumedupuis@roux.com,France,Sainte Suzannedan
+20,Legrand S.A.S.,Gabriel Chevallier de la Weiss,0476150228,gabrielchevallierdelaweiss@legrand.com,Italie,Duval
