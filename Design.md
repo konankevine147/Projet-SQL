@@ -84,7 +84,7 @@ erDiagram
     }
 
     FOURNISSEUR ||--o{ PRODUIT : "fournit"
-    PRODUIT ||--|| STOCK : "suivi par"
+    PRODUIT ||--|| STOCK : "est rattaché"
     PRODUIT ||--o{ LIGNE_COMMANDE : "figure dans"
     CLIENT ||--o{ COMMANDE : "passe"
     COMMANDE ||--o{ LIGNE_COMMANDE : "contient"
