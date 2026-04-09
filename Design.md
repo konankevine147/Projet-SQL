@@ -1,5 +1,4 @@
 ```mermaid
-```mermaid
 erDiagram
     FOURNISSEUR {
         int id_fournisseur PK
@@ -93,4 +92,3 @@ erDiagram
     STOCK ||--o{ MOUVEMENT_STOCK : "enregistre"
     STOCK ||--o{ PRODUIT_INUTILISABLE : "signale"
 ```
-  ```
