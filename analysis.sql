@@ -15,17 +15,14 @@ SET
     distribution_moyenne_mensuelle = (
         SELECT ROUND(
             CAST(SUM(lc.quantite_commandee) AS REAL)
-            / NULLIF(COUNT(DISTINCT c.annee || '-' || c.mois), 0),
-            2
-        )
+            / NULLIF(COUNT(DISTINCT c.annee || '-' || c.mois), 0),2)
         FROM LIGNE_COMMANDE lc
         JOIN COMMANDE c ON c.id_commande = lc.id_commande
         WHERE lc.code_produit = STOCK.code_produit
           AND lc.numero_lot   = STOCK.numero_lot
           AND c.statut IN ('approuvee', 'livree')
           AND (c.annee * 100 + c.mois) < 202412
-          AND (c.annee * 100 + c.mois) >= 202407
-    ),
+          AND (c.annee * 100 + c.mois) >= 202407),
     date_derniere_maj = '2026-04-08';
 
 
@@ -39,9 +36,9 @@ SELECT
     p.nom_produit,
     p.date_limite_consommation,
     CAST(julianday('now') - julianday(p.date_limite_consommation) AS INTEGER)
-                                                            AS jours_depuis_peremption,
-    SUM(pi.quantite)                                        AS quantite_perimee,
-    ROUND(SUM(pi.quantite) * p.prix_achat, 2)               AS valeur_perdue_euro
+                                                AS jours_depuis_peremption,
+    SUM(pi.quantite)                            AS quantite_perimee,
+    ROUND(SUM(pi.quantite) * p.prix_achat, 2)   AS valeur_perdue_euro
 FROM PRODUIT_INUTILISABLE pi
 JOIN STOCK s   ON s.id_stock     = pi.id_stock
 JOIN PRODUIT p ON p.code_produit = s.code_produit
@@ -57,9 +54,9 @@ ORDER BY p.date_limite_consommation ASC;
 
 SELECT
     pi.motif,
-    COUNT(*)                                                AS nb_constats,
-    SUM(pi.quantite)                                        AS quantite_totale_retiree,
-    ROUND(SUM(pi.quantite * p.prix_achat), 2)               AS valeur_pertes_euro,
+    COUNT(*)                                  AS nb_constats,
+    SUM(pi.quantite)                          AS quantite_totale_retiree,
+    ROUND(SUM(pi.quantite * p.prix_achat), 2) AS valeur_pertes_euro,
     ROUND(
         CAST(COUNT(*) AS REAL)
         / (SELECT COUNT(*) FROM PRODUIT_INUTILISABLE) * 100, 2) AS part_pct
@@ -80,9 +77,9 @@ SELECT
     p.numero_lot,
     p.nom_produit,
     p.type_pathologie,
-    COUNT(DISTINCT lc.id_commande)                          AS nb_commandes,
-    SUM(lc.quantite_commandee)                              AS total_commande,
-    SUM(lc.quantite_livree)                                 AS total_livre,
+    COUNT(DISTINCT lc.id_commande)             AS nb_commandes,
+    SUM(lc.quantite_commandee)                 AS total_commande,
+    SUM(lc.quantite_livree)                    AS total_livre,
     ROUND(
         CAST(SUM(lc.quantite_livree) AS REAL)
         / NULLIF(SUM(lc.quantite_commandee), 0) * 100, 2)  AS taux_satisfaction_pct
@@ -106,8 +103,8 @@ SELECT
     p.numero_lot,
     p.nom_produit,
     p.type_pathologie,
-    SUM(lc.quantite_commandee)                              AS total_commande,
-    SUM(lc.quantite_livree)                                 AS total_livre,
+    SUM(lc.quantite_commandee)                             AS total_commande,
+    SUM(lc.quantite_livree)                                AS total_livre,
     SUM(lc.quantite_commandee) - SUM(lc.quantite_livree)   AS ecart_non_livre,
     ROUND(
         CAST(SUM(lc.quantite_livree) AS REAL)
@@ -143,15 +140,15 @@ ORDER BY taux_satisfaction_pct ASC;
 
 SELECT
     f.nom_fournisseur,
-    f.pays                                                  AS pays_fournisseur,
+    f.pays                                      AS pays_fournisseur,
     p.code_produit,
     p.numero_lot,
     p.nom_produit,
     p.type_pathologie,
     p.unite_conditionnement,
-    SUM(ms.quantite)                                        AS quantite_recue,
-    ROUND(p.prix_achat, 2)                                  AS prix_unitaire_achat,
-    ROUND(SUM(ms.quantite) * p.prix_achat, 2)               AS montant_achat_euro
+    SUM(ms.quantite)                            AS quantite_recue,
+    ROUND(p.prix_achat, 2)                      AS prix_unitaire_achat,
+    ROUND(SUM(ms.quantite) * p.prix_achat, 2)   AS montant_achat_euro
 FROM MOUVEMENT_STOCK ms
 JOIN STOCK s       ON s.id_stock       = ms.id_stock
 JOIN PRODUIT p     ON p.code_produit   = s.code_produit
